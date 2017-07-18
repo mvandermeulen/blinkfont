@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'Sauce Code Pro Nerd Font Complete Mono';
+  src: local('Sauce Code Pro Nerd Font Complete Mono'), url('http://fonts.noptr.net/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.otf') format('opentype');
+}
+
+* {
+  text-rendering: optimizeLegibility;
+}
