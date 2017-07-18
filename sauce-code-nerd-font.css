@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'Sauce Code Pro Nerd Font Complete Mono';
-  src: local('Sauce Code Pro Nerd Font Complete Mono'), url('http://fonts.noptr.net/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.otf') format('opentype');
+  src: local('Sauce Code Pro Nerd Font Complete Mono'), url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.otf?raw=true') format('opentype');
 }
 
 * {
