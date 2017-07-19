@@ -1,8 +1,22 @@
 @font-face {
-  font-family: 'Sauce Code Pro Nerd Font Complete Mono';
-  src: local('Sauce Code Pro Nerd Font Complete Mono'), url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce%20Code%20Pro%20Nerd%20Font%20Complete%20Mono.otf?raw=true') format('opentype');
+    font-family: 'Sauce Code Pro Complete';
+    font-style: normal;
+    font-weight: 200;
+    src:  url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce_Code_Pro_Light_Nerd_Font_Complete_Mono.otf?raw=true') format('opentype');
 }
-
-* {
-  text-rendering: optimizeLegibility;
+@font-face {
+    font-family: 'Sauce Code Pro Complete';
+    font-style: normal;
+    font-weight: 400;
+    src:  url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce_Code_Pro_Nerd_Font_Complete_Mono.otf?raw=true') format('opentype');
+}
+@font-face {
+    font-family: 'Sauce Code Pro Complete';
+    font-weight: 600;
+    src:  url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce_Code_Pro_Medium_Nerd_Font_Complete_Mono.otf?raw=true') format('opentype');
+}
+@font-face {
+    font-family: 'Sauce Code Pro Complete';
+    font-weight: 800;
+    src: url('https://github.com/mvandermeulen/blinkfont/blob/master/Sauce_Code_Pro_Bold_Nerd_Font_Complete_Mono.otf?raw=true') format('opentype');
 }
